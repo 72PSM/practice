@@ -1,0 +1,9 @@
+E:\zMine\RedGateKey\RedGateKey\bin\Debug\RedGateKey.exe.config
+E:\zMine\RedGateKey\RedGateKey\bin\Debug\RedGateKey.exe
+E:\zMine\RedGateKey\RedGateKey\bin\Debug\RedGateKey.pdb
+E:\zMine\RedGateKey\RedGateKey\obj\Debug\RedGateKey.csprojAssemblyReference.cache
+E:\zMine\RedGateKey\RedGateKey\obj\Debug\RedGateKey.Properties.Resources.resources
+E:\zMine\RedGateKey\RedGateKey\obj\Debug\RedGateKey.csproj.GenerateResource.cache
+E:\zMine\RedGateKey\RedGateKey\obj\Debug\RedGateKey.csproj.CoreCompileInputs.cache
+E:\zMine\RedGateKey\RedGateKey\obj\Debug\RedGateKey.exe
+E:\zMine\RedGateKey\RedGateKey\obj\Debug\RedGateKey.pdb
